@@ -1,7 +1,7 @@
 # Water Quality Analysis Using Autoencoders 🚰🔬
 
 ## 📌 Overview  
-This project aims to analyze water quality of Uttrakhand based on multiple parameters.The project has taken the data from the official website of Uttrakhand Government website. Water quality is assessed using key indicators such as:  
+This project aims to analyze water quality of Uttrakhand based on multiple parameters.The project has taken the data from the official website of Uttrakhand Government . Water quality is assessed using key indicators such as:  
 
 - **Temperature (°C)**  
 - **pH Level**  
