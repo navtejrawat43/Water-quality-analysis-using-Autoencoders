@@ -35,4 +35,4 @@ This approach helps in analyzing trends, detecting anomalies, and predicting cha
 - **Data Reconstruction:** Handles missing values effectively using neural networks.  
 - **Comparative Study:** Analyzes variations in water quality across multiple Indian states.  
 
-## 📂 Project Structure  
+
